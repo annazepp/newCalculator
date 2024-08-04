@@ -7,3 +7,4 @@ new line on test branch
 new line ont second-branch
 new line on dev1
 new line on new-operaztion branch
+new line on new operatioin barnch after delete from github
